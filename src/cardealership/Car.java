@@ -9,7 +9,7 @@ import java.io.*;
 
 /**
  *
- * @author Rizwan Ali, Zachary
+ * @author Piazza, John
  */
 public class Car implements Serializable{
     String VIN;
