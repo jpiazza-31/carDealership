@@ -7,7 +7,7 @@ package cardealership;
 
 /**
  *
- * @author Rizwan Ali
+ * @author Piazza, John
  */
 
 import java.io.*;
